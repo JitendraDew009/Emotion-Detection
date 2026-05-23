@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Emotion Web Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<h2>Emotion Analytics</h2>
+<canvas id="chart"></canvas>
+
+<script>
+fetch("/data").then(r=>r.json()).then(d=>{
+ new Chart(document.getElementById("chart"),{
+   type:"bar",
+   data:{labels:d.labels,datasets:[{label:"Count",data:d.values}]}
+ });
+});
+</script>
+</body>
+</html>
