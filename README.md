@@ -1,6 +1,6 @@
 # Emotion Detection — AI Emotion Detection System
 
-Real-time emotion detection using a webcam and DeepFace, with optional music playback and simple dashboards for analytics (web and PyQt). Intended for demo, prototyping, and educational projects where you want to visualize detected emotions, log them to CSV/SQLite, and play mood-matching music.
+Real time emotion detection using a webcam and DeepFace, with optional music playback and simple dashboards for analytics (web and PyQt). Intended for demo, prototyping, and educational projects where you want to visualize detected emotions, log them to CSV/SQLite, and play mood-matching music.
 
 ## Stack
 - Language(s): Python (primary), HTML (templates)
