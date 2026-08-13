@@ -125,11 +125,7 @@ Contributions are welcome. Open an issue or submit a pull request with:
 - Tests or usage notes where appropriate
 
 ## License
-No license file is included in this repository. Add a LICENSE if you plan to share or accept contributions under a specific license.
+No license file is included in this repository. 
 
 ## Contact
-Maintainer: repository owner (see GitHub profile)
-If you want, I can:
-- Add this README.md file to the repository (commit it for you), or
-- Create a requirements.txt and a LICENSE file,
-— tell me which you'd like me to do next.
+LinkedIn or GMail 
